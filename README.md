@@ -2,182 +2,89 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;DevOps+%2F+Cloud+Engineer;Automation+%2B+Infrastructure" alt="Typing SVG" />
 </div>
 
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
-  }
-  
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-15px); }
-  }
-  
-  @keyframes pulse-glow {
-    0%, 100% { box-shadow: 0 0 5px rgba(0, 217, 255, 0.5); }
-    50% { box-shadow: 0 0 20px rgba(0, 217, 255, 0.9); }
-  }
-  
-  @keyframes slide-in {
-    from { opacity: 0; transform: translateX(-20px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-  
-  @keyframes gradient-shift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  .skill-badge {
-    display: inline-block;
-    padding: 8px 16px;
-    margin: 6px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: 600;
-    transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
-    border: 2px solid transparent;
-    animation: slide-in 0.6s ease-out;
-  }
-  
-  .skill-badge:hover {
-    transform: scale(1.15) translateY(-8px);
-    box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
-    border-color: #00D9FF;
-  }
-  
-  .category-title {
-    font-size: 20px;
-    font-weight: 700;
-    color: #00D9FF;
-    margin-top: 30px;
-    margin-bottom: 15px;
-    display: inline-block;
-    animation: bounce 2s infinite;
-  }
-  
-  .container {
-    background: linear-gradient(135deg, #0f0c29 0%, #1a1535 50%, #0f0c29 100%);
-    border-radius: 12px;
-    padding: 25px;
-    margin: 20px 0;
-    border: 1px solid rgba(0, 217, 255, 0.2);
-    animation: pulse-glow 3s infinite;
-  }
-</style>
+---
+
+## 🚀 Cloud & DevOps Stack
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+
+## 🛠️ CI/CD & Automation
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-1E90FF?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
+
+## 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+## 📊 Monitoring & Logging
+
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C45?style=for-the-badge&logo=new-relic&logoColor=white)
+![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+## 🗄️ Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 ---
 
-<div class="container">
-  <h2 class="category-title">🚀 Cloud & DevOps Stack</h2>
-  
-  <div style="margin: 20px 0;">
-    <span class="skill-badge">Kubernetes</span>
-    <span class="skill-badge">Docker</span>
-    <span class="skill-badge">AWS</span>
-    <span class="skill-badge">GCP</span>
-    <span class="skill-badge">Azure</span>
-    <span class="skill-badge">Terraform</span>
-    <span class="skill-badge">Ansible</span>
-    <span class="skill-badge">CloudFormation</span>
-  </div>
-</div>
+## 💬 Let's Connect & Collaborate!
 
-<div class="container">
-  <h2 class="category-title">🛠️ CI/CD & Automation</h2>
-  
-  <div style="margin: 20px 0;">
-    <span class="skill-badge">Jenkins</span>
-    <span class="skill-badge">GitLab CI/CD</span>
-    <span class="skill-badge">GitHub Actions</span>
-    <span class="skill-badge">ArgoCD</span>
-    <span class="skill-badge">Helm</span>
-    <span class="skill-badge">Gitlab Runner</span>
-    <span class="skill-badge">CircleCI</span>
-    <span class="skill-badge">Prometheus</span>
-  </div>
-</div>
-
-<div class="container">
-  <h2 class="category-title">💻 Programming & Scripting</h2>
-  
-  <div style="margin: 20px 0;">
-    <span class="skill-badge">Python</span>
-    <span class="skill-badge">Bash</span>
-    <span class="skill-badge">Go</span>
-    <span class="skill-badge">JavaScript</span>
-    <span class="skill-badge">YAML</span>
-    <span class="skill-badge">HCL</span>
-    <span class="skill-badge">SQL</span>
-    <span class="skill-badge">PowerShell</span>
-  </div>
-</div>
-
-<div class="container">
-  <h2 class="category-title">📊 Monitoring & Logging</h2>
-  
-  <div style="margin: 20px 0;">
-    <span class="skill-badge">Prometheus</span>
-    <span class="skill-badge">Grafana</span>
-    <span class="skill-badge">ELK Stack</span>
-    <span class="skill-badge">Datadog</span>
-    <span class="skill-badge">CloudWatch</span>
-    <span class="skill-badge">New Relic</span>
-    <span class="skill-badge">Splunk</span>
-    <span class="skill-badge">AlertManager</span>
-  </div>
-</div>
-
-<div class="container">
-  <h2 class="category-title">🗄️ Databases & Storage</h2>
-  
-  <div style="margin: 20px 0;">
-    <span class="skill-badge">PostgreSQL</span>
-    <span class="skill-badge">MongoDB</span>
-    <span class="skill-badge">Redis</span>
-    <span class="skill-badge">Elasticsearch</span>
-    <span class="skill-badge">S3</span>
-    <span class="skill-badge">RDS</span>
-    <span class="skill-badge">DynamoDB</span>
-    <span class="skill-badge">MySQL</span>
-  </div>
-</div>
-
----
-
-<div align="center" style="margin-top: 40px;">
-  <h3 style="color: #00D9FF; font-size: 18px;">
-    <svg style="display: inline; animation: float 3s ease-in-out infinite;" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
-    </svg>
-    Let's collaborate on infrastructure automation & cloud solutions!
-  </h3>
-  
-  <div style="margin: 20px 0;">
-    <a href="https://github.com/chaitu95p" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=00D9FF" alt="GitHub" style="transition: transform 0.3s; transform: translateY(0);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'"/>
-    </a>
-    <a href="https://linkedin.com/in/chaitu95p" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=00D9FF" alt="LinkedIn" style="transition: transform 0.3s; transform: translateY(0);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'"/>
-    </a>
-  </div>
-</div>
-
-<hr style="border: 1px solid rgba(0, 217, 255, 0.3); margin: 30px 0;">
+I'm passionate about building reliable, scalable infrastructure and automating everything possible. Let's work together on cloud solutions and DevOps practices!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitu95p&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px;"/>
-</div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitu95p&theme=tokyo-night&hide_border=true" alt="Activity Graph" style="border-radius: 10px;"/>
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/chaitu95p)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chaitu95p)
+
 </div>
 
 ---
 
-<div align="center" style="margin-top: 30px; color: #888; font-size: 12px;">
-  <p>✨ Building reliable, scalable infrastructure one deployment at a time ✨</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitu95p&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitu95p&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ Building reliable, scalable infrastructure one deployment at a time ✨
+  
+<sub>DevOps | Cloud Architecture | Kubernetes | Infrastructure as Code</sub>
+  
 </div>
