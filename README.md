@@ -90,7 +90,13 @@ I build low-latency, audit-compliant data solutions for banking and credit-risk 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitu95p&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitu95p&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaitu95p&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitu95p&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaitu95p&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitu95p&theme=tokyonight&utcOffset=5.5)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitu95p&theme=tokyo-night&hide_border=true)
 
