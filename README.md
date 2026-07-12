@@ -19,6 +19,14 @@
 ![Kiro CLI](https://img.shields.io/badge/Kiro_CLI-5E4AE3?style=flat-square&logo=amazon&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-1A1A1A?style=flat-square&logo=openai&logoColor=white)
 
+## 🏅 Certifications
+
+[![Claude Certified Architect – Foundations](https://img.shields.io/badge/Claude_Certified_Architect-Foundations-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.credly.com/badges/1a663f4e-887c-4ce5-b6bf-061af11995ab/public_url)
+
+**[Claude Certified Architect – Foundations](https://www.credly.com/badges/1a663f4e-887c-4ce5-b6bf-061af11995ab/public_url)** · Anthropic · Issued Jul 2026 · ✅ Verified
+
+<sub>Design and build production-grade applications with Claude using Claude Code, the Claude Agent SDK, the Claude API, and MCP — covering AI system design, multi-agent orchestration, prompt engineering, tool &amp; MCP design, and production reliability.</sub>
+
 ## 🧬 Data Engineering & Big Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
